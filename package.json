@@ -1,5 +1,5 @@
 {
-  "name": "git-horse",
+  "name": "githorse",
   "version": "1.0.0",
   "description": "Horse-related instructional CLI app for Git users",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/meatflavourdev/git-horse.git"
+    "url": "git+ssh://git@github.com/meatflavourdev/githorse.git"
   },
   "keywords": [
     "git",
