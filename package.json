@@ -1,0 +1,32 @@
+{
+  "name": "git-horse",
+  "version": "1.0.0",
+  "description": "Horse-related instructional CLI app for Git users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meatflavourdev/git-horse.git"
+  },
+  "keywords": [
+    "git",
+    "horse",
+    "cli",
+    "ASCII",
+    "art",
+    "idioms",
+    "sayings",
+    "advice",
+    "terminal",
+    "app",
+    "javascript"
+  ],
+  "author": "Jeremy Dombrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meatflavourdev/git-horse/issues"
+  },
+  "homepage": "https://github.com/meatflavourdev/git-horse#readme"
+}
